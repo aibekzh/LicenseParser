@@ -1,0 +1,88 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\aibek\\RiderProjects\\license\\license\\license.csproj",
+    "projectName": "license",
+    "projectPath": "C:\\Users\\aibek\\RiderProjects\\license\\license\\license.csproj",
+    "outputPath": "C:\\Users\\aibek\\RiderProjects\\license\\license\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "HtmlAgilityPack": {
+          "target": "Package",
+          "version": "[1.11.23, )"
+        },
+        "Microsoft.Extensions.Configuration": {
+          "target": "Package",
+          "version": "[5.0.0-preview.2.20160.3, )"
+        },
+        "Microsoft.Extensions.Configuration.FileExtensions": {
+          "target": "Package",
+          "version": "[5.0.0-preview.2.20160.3, )"
+        },
+        "Microsoft.Extensions.Configuration.Json": {
+          "target": "Package",
+          "version": "[5.0.0-preview.2.20160.3, )"
+        },
+        "Microsoft.Extensions.Options": {
+          "target": "Package",
+          "version": "[5.0.0-preview.2.20160.3, )"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.3, )"
+        },
+        "Npgsql": {
+          "target": "Package",
+          "version": "[4.1.3.1, )"
+        },
+        "RestSharp": {
+          "target": "Package",
+          "version": "[106.10.2-alpha.0.8, )"
+        },
+        "Selenium.WebDriver": {
+          "target": "Package",
+          "version": "[4.0.0-alpha05, )"
+        },
+        "Selenium.WebDriver.ChromeDriver": {
+          "target": "Package",
+          "version": "[80.0.3987.10600, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

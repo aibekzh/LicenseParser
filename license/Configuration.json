@@ -1,0 +1,12 @@
+﻿{
+  "DbHost": "127.0.0.1",
+  "DbPort": "5432",
+  "DbUserName":  "aibek",
+  "DbPassword": "aibek007",
+  "DbName":  "aibeks_database",
+  "DbScheme":  "counterparty",
+  "ProxyApiKey":  "a4997218d32591e6ecb251cd1adc6274a99354a9",
+  "BinTable":  "counterparty.legal_entities_copy2",
+  "WorkersNumber": 30,
+  "BinColumn": "code_bin"
+}
