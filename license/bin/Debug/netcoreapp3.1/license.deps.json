@@ -17,7 +17,7 @@
           "Npgsql": "4.1.3.1",
           "RestSharp": "106.10.2-alpha.0.8",
           "Selenium.WebDriver": "4.0.0-alpha05",
-          "Selenium.WebDriver.ChromeDriver": "80.0.3987.10600"
+          "Selenium.WebDriver.ChromeDriver": "81.0.4044.13800"
         },
         "runtime": {
           "license.dll": {}
@@ -231,7 +231,7 @@
           }
         }
       },
-      "Selenium.WebDriver.ChromeDriver/80.0.3987.10600": {},
+      "Selenium.WebDriver.ChromeDriver/81.0.4044.13800": {},
       "System.Collections/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -929,12 +929,12 @@
       "path": "selenium.webdriver/4.0.0-alpha05",
       "hashPath": "selenium.webdriver.4.0.0-alpha05.nupkg.sha512"
     },
-    "Selenium.WebDriver.ChromeDriver/80.0.3987.10600": {
+    "Selenium.WebDriver.ChromeDriver/81.0.4044.13800": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-rw0CV+If3GzxEYlNt0dXVUwpbBccIx1m9CFebg0oe0yncgcuA4mmx9c5UTYVd3FB+eN4ZPiy0wZg+X0Ryn9jUw==",
-      "path": "selenium.webdriver.chromedriver/80.0.3987.10600",
-      "hashPath": "selenium.webdriver.chromedriver.80.0.3987.10600.nupkg.sha512"
+      "sha512": "sha512-2b1bjeB0HmTw9wJ41FFcXXRTRMjf0Xm9nrlw1iK6tBTm3Rwqi5+UX9WWaj+lXp8itmmVOKmnYfq49aVDNq281w==",
+      "path": "selenium.webdriver.chromedriver/81.0.4044.13800",
+      "hashPath": "selenium.webdriver.chromedriver.81.0.4044.13800.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",

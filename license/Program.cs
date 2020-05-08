@@ -10,6 +10,7 @@ namespace license
     {
         static void Main(string[] args)
         {
+            var array = Selenium.SendDetailsRequest("100940005678");
             var getConfiguration = new ConfigurationBuilder().AddJsonFile("Configuration.json").Build();
 
             var conf = new Configuration
